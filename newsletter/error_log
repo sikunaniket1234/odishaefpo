@@ -1,0 +1,5 @@
+[06-Dec-2019 10:46:07 Etc/GMT] PHP Notice:  Undefined variable: heading in /home/shreeatozsolutio/public_html/demo/newsletter/p1.php on line 192
+[06-Dec-2019 10:46:07 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/shreeatozsolutio/public_html/demo/newsletter/p2.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/shreeatozsolutio/public_html/demo/newsletter/p2.php on line 51
